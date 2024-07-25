@@ -3,3 +3,5 @@ vless://ff49a775-a816-4d46-b07c-30645642e5e2@188.114.98.224:8080?path=%2FJoin--V
 vless://701d667b-e0b8-4601-9b95-4fd12ddbbb13@172.67.174.201:2095?path=%2Fi3V2ray-i3V2ray-i3V2ray-i3V2ray-i3V2ray%2Fi3V2rayi3V2rayi3V2ray%3Fed%3D2048&security=none&encryption=none&host=mahdi.net.346ewfsgv2ray.comxn--adge2535.g1ewkjd.kajdwoek2qop.lavazem456di.lavazemjanebicoffee.IR&type=ws#⚜️Telegram:@V2rayng_org
 vless://its-VPNCUSTOMIZE@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#@meli_proxyy
 vless://462506c1-748d-46a0-b56b-1d685874a592@104.16.11.133:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=ws#@meli_proxyy
+vless://36c038c9-4afd-4bf1-91f9-a80669fb8b9c@138.201.95.215:8080?type=tcp&security=none#@meli_proxyy
+vmess://eyJhZGQiOiIxMzguMjAxLjk1LjIxNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxYmRjMWI4Zi0wYTIwLTRkYzgtOGY3My1lMDA4ZjY0ZGE2NWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwODYiLCJwcyI6IkBtZWxpX3Byb3h5eSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
