@@ -1,1 +1,3 @@
-vless://3ab5698b-7e4a-4e9a-9e8e-1ee4aa56e324@api.dota.website:443?encryption=none&security=tls&sni=api.dota.website&alpn=http%2F1.1&type=ws&host=nuclear.dota.website&path=%2Fws%2F63ab6f6152129e530cdfee68%2FD#%F0%9F%9A%80%20%40SmoothVPN%20-%20D
+vless://ed846d1d-0b27-4339-aa3f-289d81148b8c@104.18.93.106:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#@meli_proxyy
+vless://ed846d1d-0b27-4339-aa3f-289d81148b8c@104.18.46.139:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#@meli_proxyy
+vless://ed846d1d-0b27-4339-aa3f-289d81148b8c@104.17.111.108:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#@meli_proxyy
